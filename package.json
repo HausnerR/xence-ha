@@ -1,0 +1,16 @@
+{
+  "name": "xence",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakub Pachciarek",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@xencelabs-quick-keys/node": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
